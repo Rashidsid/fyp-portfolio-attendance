@@ -105,3 +105,4 @@ export function Navbar() {
   );
 }
 // Updated
+// Mobile

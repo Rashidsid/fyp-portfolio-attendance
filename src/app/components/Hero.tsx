@@ -1,4 +1,4 @@
-import { ImageWithFallback } from './figma/ImageWithFallback';
+import { ImageWithFallback } from './utils/ImageWithFallback';
 import { motion } from 'motion/react';
 import { Scan, Users, Shield } from 'lucide-react';
 

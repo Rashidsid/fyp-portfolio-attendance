@@ -1,6 +1,6 @@
 import { motion } from 'motion/react';
 import { UserPlus, Edit3, Trash2, Palette, Upload, FileText } from 'lucide-react';
-import { ImageWithFallback } from './figma/ImageWithFallback';
+import { ImageWithFallback } from './utils/ImageWithFallback';
 
 const adminCapabilities = [
   {

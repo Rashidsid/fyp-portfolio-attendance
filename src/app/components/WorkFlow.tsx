@@ -1,6 +1,6 @@
 import { motion } from 'motion/react';
-import { ArrowRight, UserPlus, Camera, CheckCircle, BarChart, Cloud, Database } from 'lucide-react';
-import { ImageWithFallback } from './figma/ImageWithFallback';
+import { UserPlus, Camera, CheckCircle, BarChart, Cloud, Database } from 'lucide-react';
+import { ImageWithFallback } from './utils/ImageWithFallback';
 
 const steps = [
   {
